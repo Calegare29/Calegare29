@@ -34,7 +34,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 - 💻 Estou aprendendo **Front-End, Back-End, Mobile, Banco de Dados, UX/UI, etc.**
 - 🎯 Meu objetivo é **ser desenvolvedor Full Stack**
 - 📚 Gosto de aprender sobre **Front-End, UX/UI, etc **
-- Meus gostos: (https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white) --- (https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
+- Meus gostos: ![Nintendo]([https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white))
 - ✝ **Mas eu vos digo: Amai os vossos inimigos, abençoai os que vos amaldiçoam, fazei o bem aos que vos odeiam e orai pelos que vos maltratam e perseguem;**
 
 ---
