@@ -33,7 +33,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 - 🎓 Atualmente estudo no **SENAI**
 - 💻 Estou aprendendo **Front-End, Back-End, Mobile, Banco de Dados, UX/UI, etc.**
 - 🎯 Meu objetivo é **ser desenvolvedor Full Stack**
-- 📚 Gosto de aprender sobre **Front-End, UX/UI, etc **
+- 📚 Gosto de aprender sobre **Front-End, UX/UI, etc.**
 - ✝ **Mas eu vos digo: Amai os vossos inimigos, abençoai os que vos amaldiçoam, fazei o bem aos que vos odeiam e orai pelos que vos maltratam e perseguem;**
 
 ---
@@ -41,5 +41,5 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 ## 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuusuario)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/seuusuario)  
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/seuusuario)  
