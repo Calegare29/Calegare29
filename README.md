@@ -34,7 +34,6 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 - 💻 Estou aprendendo **Front-End, Back-End, Mobile, Banco de Dados, UX/UI, etc.**
 - 🎯 Meu objetivo é **ser desenvolvedor Full Stack**
 - 📚 Gosto de aprender sobre **Front-End, UX/UI, etc **
-- Meus gostos: ![Nintendo](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
 - ✝ **Mas eu vos digo: Amai os vossos inimigos, abençoai os que vos amaldiçoam, fazei o bem aos que vos odeiam e orai pelos que vos maltratam e perseguem;**
 
 ---
@@ -43,6 +42,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuusuario)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/seuusuario)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/seuusuario)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/seuusuario)  
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
 
