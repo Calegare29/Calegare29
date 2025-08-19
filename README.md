@@ -28,25 +28,14 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 ---
 
-## 🚀 Meus Projetos
-
-| Projeto               | Preview Online                        | Tecnologias Usadas        |
-|-----------------------|-------------------------------------|--------------------------|
-| **jogo adivinhação** | [🔗 Ver online](projeto-advinhacao-bandeiras.vercel.app) | HTML / CSS / JS          |
-| **sorted by stef** | [🔗 Ver online](peaceful-babka-ed85f6.netlify.app) | Node.js / Express / MySQL|
-| **Nome do Projeto 3** | [🔗 Ver online](https://seu-link.com) | Flutter / Dart           |
-
-> 💡 Dica: Quando você publicar um projeto no GitHub Pages, coloque o link aqui!
-
----
-
 ## 💡 Sobre Mim
 
-- 🎓 Atualmente estudo no **[Nome da sua escola]**
-- 💻 Estou aprendendo **[tecnologias que está aprendendo]**
-- 🎯 Meu objetivo é **[coloque seu objetivo, exemplo: ser desenvolvedor Full Stack]**
-- 📚 Gosto de aprender sobre **[áreas de interesse]**
-- ✝ [Se quiser, coloque uma frase ou versículo que te inspire]
+- 🎓 Atualmente estudo no **SENAI**
+- 💻 Estou aprendendo **Front-End, Back-End, Mobile, Banco de Dados, UX/UI, etc.**
+- 🎯 Meu objetivo é **ser desenvolvedor Full Stack**
+- 📚 Gosto de aprender sobre **Front-End, UX/UI, etc **
+- Meus gostos: (https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white) --- (https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
+- ✝ **Mas eu vos digo: Amai os vossos inimigos, abençoai os que vos amaldiçoam, fazei o bem aos que vos odeiam e orai pelos que vos maltratam e perseguem;**
 
 ---
 
@@ -55,3 +44,5 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuusuario)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/seuusuario)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/seuusuario)
+
+
