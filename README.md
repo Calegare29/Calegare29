@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Lucas Calegare
 
-Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em Front-End, Back-End, Mobile, Banco de Dados, UX/UI, etc.
+Sou Tecnico **Desenvolvimento de Sistemas** e busco cada dia mais aprofundar meus conhecimentos nas áreas de tecnologia. Tenho interesse especial em Front-End, Back-End, Mobile, Banco de Dados, UX/UI, etc.
 
 ---
 
@@ -30,8 +30,8 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 ## 💡 Sobre Mim
 
-- 🎓 Atualmente estudo no **SENAI**
-- 💻 Estou aprendendo **Front-End, Back-End, Mobile, Banco de Dados, UX/UI, etc.**
+- 🎓 Formado no **SENAI** e no **SESI-SP**
+- 💻 Estou aprofundando meus conhecimentos em **Front-End, Back-End, Mobile, Banco de Dados, UX/UI, etc.**
 - 🎯 Meu objetivo é **ser desenvolvedor Full Stack**
 - 📚 Gosto de aprender sobre **Front-End, UX/UI, etc.**
 - ✝ **Mas eu vos digo: Amai os vossos inimigos, abençoai os que vos amaldiçoam, fazei o bem aos que vos odeiam e orai pelos que vos maltratam e perseguem;**
